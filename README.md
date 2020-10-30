@@ -2,7 +2,7 @@
 
 ## Description
 
-- React Query, axios モジュールを利用した非同期通信のサンプルプロジェクトです。
+- React Query, axios ライブラリを利用した非同期通信のサンプルプロジェクトです。
 - REST API は [JsonPlaceholder](https://jsonplaceholder.typicode.com/) を利用しています。
 
 ## Getting Started
