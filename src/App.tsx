@@ -5,7 +5,7 @@ import { useQuery } from "react-query";
 /* types */
 import { User } from "./types";
 
-function App() {
+const App: React.FC = () => {
 
   const [users, setUsers] = useState([]);
 
@@ -20,7 +20,6 @@ function App() {
     if (!isLoading) {
       setUsers(data);
     }
-
   }, [data, isLoading]);
 
   useEffect(() => {
@@ -41,6 +40,6 @@ function App() {
     </div>
   );
 
-}
+};
 
 export default App;
