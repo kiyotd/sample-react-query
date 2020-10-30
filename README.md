@@ -24,7 +24,7 @@ Open http://localhost:3000 to view it in the browser.
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+The MIT License
 
 ## Author
 
