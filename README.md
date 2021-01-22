@@ -26,10 +26,6 @@ Open http://localhost:3000 to view it in the browser.
 
 [Intro to React-Query](https://www.youtube.com/watch?v=QIDFXk9M2VY)
 
-## Licence
-
-The MIT License
-
 ## Author
 
 **kiyotd**  
